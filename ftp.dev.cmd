@@ -1,0 +1,1 @@
+node .\index.js -h 47.103.42.62 -u root -p qyYH12138 -s /home/wwwroot/panel-c.cy-cube.com -l /test
